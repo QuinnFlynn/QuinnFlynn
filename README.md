@@ -30,6 +30,3 @@ Lösungen zu produzieren.
 - **Autiva** – Digitale Fahrzeugprüfung mit PDF-Export
 
 ---
-
-📫 **Kontakt**  
-richard.kabanov@gmail.com
