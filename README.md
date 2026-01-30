@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 **Hi, ich bin Richard**
 
-<!--
-**QuinnFlynn/QuinnFlynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Umschulung zum **Fachinformatiker für Anwendungsentwicklung**  
+📍 Bad Neustadt an der Saale
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 **Über mich**  
+Ich lerne Softwareentwicklung nicht nur theoretisch, sondern setze Inhalte
+konsequent in eigenen Projekten um.  
+Dabei lege ich Wert auf klare Strukturen, nachvollziehbaren Code und
+sauber aufgebaute Abläufe.
+
+Ich arbeite lieber gründlich und sauber, statt schnell unübersichtliche
+Lösungen zu produzieren.
+
+---
+
+🛠 **Technischer Fokus**
+- C# / .NET (MAUI – Desktop & Android)
+- JavaScript / TypeScript
+- Visual Studio & VS Code
+- Git & GitHub
+- SQL (SQLite, PostgreSQL)
+
+---
+
+📂 **Aktuelle Projekte**
+- **BUeasy** – Buchhaltungssoftware mit strukturierter Belegerfassung  
+- **Autiva** – Digitale Fahrzeugprüfung mit PDF-Export
+
+---
+
+📫 **Kontakt**  
+richard.kabanov@gmail.com
